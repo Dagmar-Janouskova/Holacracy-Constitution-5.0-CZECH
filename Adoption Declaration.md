@@ -1,70 +1,69 @@
-Constitution Adoption Declaration
+Prohlášení o přijetí Ústavy
 =================================
 
-The Ratifier(s) named below hereby adopt the following sections of the Holacracy Constitution v5.0 as the governance and operating framework for \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (the “Organization”):
+Níže uvedený Ratifikátor (ratifikátoři) tímto přijímá následující části Ústavy Holakracie v5.0 jako organizační a provozní rámec pro \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (dále jen „Organizaci“):
 
-#### [ X ] Article 1: Organizational Structure
+#### [ X ] Článek 1: Organizační struktura Článek
 
-- Article 1 is required to use any other rules of the Constitution.
+- Článek 1 je vyžadován pro použití jakýchkoliv jiných pravidel Ústavy.
 
-#### [\_\_] Article 2: Rules of Cooperation
+#### [\_\_] Článek 2: Distribuovaná struktura autorit
 
-- If this Article is not adopted, Circle Leads may specify the duties a Partner has to cooperate with others while working within their Circle, unless otherwise specified by a broader Circle Lead or by the Ratifiers.
+- Pokud tento článek nebude přijat, musí Lídři Rolí sladit všechny akce a rozhodnutí s jakýmikoli poučeními nebo pokyny danými Lídrem Kruhu svého Kruhu nebo jakýmkoliv širším Kruhem, pokud Lídr širšího Kruhu nebo Ratifikátor neurčí jinak.
 
-#### [\_\_] Article 3: Tactical Meetings
+#### [\_\_] Článek 3: Taktické schůzky
 
-- If this Article is not adopted, the Organization will continue its current meeting habits, until otherwise changed by a Circle Lead for their Circle, or until otherwise specified by a broader Circle Lead or by the Ratifiers.
+- Pokud tento článek nebude přijat, bude Organizace pokračovat ve svých dosavadních zvycích při schůzkách, dokud nebude upraveno jinak Lídrem Kruhu svého Kruhu, nebo dokud nebude uvedeno jinak Lídrem širšího Kruhu nebo Ratifikátorem.
 
-#### [\_\_] Article 4: Distributed Authority
+#### [\_\_] Článek 4: Pravidla spolupráce
 
-- If this Article is not adopted, Role Leads must align all actions and decisions with any guidance or directions given by a Circle Lead of their Circle or any broader Circle, unless otherwise specified by a broader Circle Lead or by the Ratifiers.
+- Pokud tento článek nebude přijat, Lídři Kruhů mohou upřesnit povinnosti, které musí Partner plnit při spolupráci s ostatními v rámci svého Kruhu, pokud Lídr širšího Kruhu nebo Ratifikátor nestanoví jinak.
 
-#### [\_\_] Article 5: Governance Process
-
-- If this Article is not adopted, Circle Leads exclusively may edit the Governance within their Circle at any time or allow others to do so, and resolve any conflicts of interpretation of their Circle's Governance, unless otherwise specified by a broader Circle Lead or by the Ratifiers.
-
----
-
-**Adopted this \_\_\_\_\_\_\_\_ day of \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, \_\_\_\_\_\_\_\_\_ by:**
-
-*Ratifier Signatures:*
-
-x\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Name:
-
-Title:
-
-x\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Name:
-
-Title:
-
-x\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Name:
-
-Title:
+#### [\_\_] Článek 5: Proces řízení
+- Pokud tento článek nebude přijat, může výhradně Lídr Kruhu kdykoli upravit řízení v rámci svého Kruhu nebo to umožnit jiným osobám a vyřešit veškeré konflikty ve výkladu řízení svého Kruhu, pokud Lídr širšího Kruhu nebo Ratifikátor neurčí jinak.
 
 ---
 
-**The Ratifiers hereby appoint the following individuals as initial Partners of the Organization, and those Partners hereby agree to use best efforts to abide by the terms of the Constitution to the extent adopted by the Organization.**
+**Přijato \_\_\_\_\_\_\_\_ dne \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, \_\_\_\_\_\_\_\_\_:**
 
-*Partner Signatures:*
-
-x\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Name:
+*Podpisy Ratifikátorů:*
 
 x\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Name:
+Jméno a Příjmení:
+
+Pozice:
 
 x\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Name:
+Jméno a Příjmení:
+
+Pozice:
 
 x\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Name:
+Jméno a Příjmení:
+
+Pozice:
+
+---
+
+**Ratifikátoři tímto jmenují následující osoby jako počáteční Partnery organizace a tito Partneři souhlasí, že vyvinou maximální úsilí k dodržování podmínek Ústavy v rozsahu přijatém Organizací.**
+
+*Podpisy Partnerů:*
+
+x\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Jméno a příjmení:
+
+x\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Jméno a příjmení:
+
+x\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Jméno a příjmení:
+
+x\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Jméno a příjmení:
